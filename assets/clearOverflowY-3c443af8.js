@@ -1,0 +1,1 @@
+import{an as t,M as o}from"./index-a27870fc.js";function n(){t(()=>{var e;(e=document.querySelector("body"))==null||e.setAttribute("style","overflow-y: auto")}),o(()=>{var e;(e=document.querySelector("body"))==null||e.removeAttribute("style")})}export{n as s};
