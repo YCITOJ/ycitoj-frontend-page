@@ -1,0 +1,1 @@
+import{g as t,p as e}from"./index-c70bcbaa.js";function a(n){return t("/announcement/v3/list",n)}function o(n){return e("/announcement/update",n)}function c(n){return e("/announcement/create",n)}function r(n){return e("/announcement/del",n)}function i(n){return t("/announcement/find",n)}export{i as a,c,r as d,a as g,o as u};

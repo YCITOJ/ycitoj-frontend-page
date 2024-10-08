@@ -1,0 +1,1 @@
+import{au as t,N as o}from"./index-596b62d7.js";function u(){t(()=>{var e;(e=document.querySelector("body"))==null||e.setAttribute("style","overflow-y: auto")}),o(()=>{var e;(e=document.querySelector("body"))==null||e.removeAttribute("style")})}export{u as s};
