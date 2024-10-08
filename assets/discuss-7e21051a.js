@@ -1,0 +1,1 @@
+import{_ as e}from"./null-c4640a0d.js";import{_,o as t,c as o,b as s}from"./index-596b62d7.js";const c={},n={class:"null"},r=s("img",{src:e},null,-1),i=s("div",null,"正在加急开发中。。。",-1),a=[r,i];function d(l,u){return t(),o("div",n,a)}const f=_(c,[["render",d]]);export{f as default};

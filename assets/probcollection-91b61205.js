@@ -1,0 +1,1 @@
+import{g as c,p as t}from"./index-c70bcbaa.js";function r(o){return c("/prob_collection/v3/list",o)}function i(o){return c("/prob_collection/collection",o)}function _(o,e,n){return t("/prob_collection/create",{title:o,info:e,prob_set:n})}function p(o){return t("/prob_collection/update",o)}function u(o){return t("/prob_collection/del",o)}export{i as a,_ as c,u as d,r as g,p as u};
